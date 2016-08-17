@@ -1,0 +1,6 @@
+Notes:
+
+Possible areas for improvement.
+	Allow for characters to be assigned a pre-defined color?
+	
+	Allow for the device to be set in ColorWheel mode, where it simply cycles through different colors.
